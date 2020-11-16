@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+build.json
+Store.keystore
+plugins/
+platforms/
+build/
